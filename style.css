@@ -1,14 +1,13 @@
-#ID{
-    text-align: center;
-    margin:300px 400px 300px 400px;
-    padding: 25px 50px 60px 50px;
+#ID{ margin:auto;
+    margin-top: 100px;
+    padding: 50px 50px 50px 50px ;
     background-image: url(./image/pngtree-fantasy-blue-technology-background-design-backgroundcolorful-backgroundtechnology-backgroundfashion-image_70217.jpg);
     background-repeat: no-repeat;
     color:white;
+    width: 400px;
     height: 400px;
     justify-content: center;
-    
-    background-color: blueviolet;
+    text-align: center;
 }
 #w{
     color:black;
@@ -32,7 +31,7 @@ body{
 }
 table{
     text-align:unset;
-    padding-left: 90px;
+    padding-left: 80px;
     
 }
 #ta{
