@@ -1,0 +1,49 @@
+#ID{
+    text-align: center;
+    margin:300px 400px 300px 400px;
+    padding: 25px 50px 60px 50px;
+    background-image: url(./image/pngtree-fantasy-blue-technology-background-design-backgroundcolorful-backgroundtechnology-backgroundfashion-image_70217.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    height: 400px;
+    justify-content: center;
+    
+    background-color: blueviolet;
+}
+#w{
+    color:black;
+    height: 25px;
+}
+body{
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+#sub{
+    color: rgb(89, 0, 255);
+    height: 35px;
+    width: 75px;
+}
+#result{
+    color: rgb(243, 11, 11);
+    background-color: thistle;
+}
+#h{
+    color: black;height: 25px;
+}
+table{
+    text-align:unset;
+    padding-left: 90px;
+    
+}
+#ta{
+    text-align: unset;
+}
+#st{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#stand{
+    font-size: 25px;
+}
